@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Good to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Bhavana Praneeth, Fullstack developer with AI/ML</p>
+<p>Welcome to my page! </br> I'm Bhavana Praneeth, AI Engineer</p>
 <h3>Things I code with</h3>
 <p>
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
